@@ -30,3 +30,5 @@ node_modules
 # Sublime Project files
 *.sublime-project
 *.sublime-workspace
+
+public
